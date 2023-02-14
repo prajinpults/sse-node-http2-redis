@@ -1,0 +1,6 @@
+KEY_PATH='./crt/localhost.key'
+CERT_PATH='./crt/localhost.crt'
+ALLOW_HTTP1=true
+PORT=8443
+AUTH_URL='/'
+AUTH_METHOD='GET'
